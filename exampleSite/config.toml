@@ -124,7 +124,7 @@ theme = "aafu"
             thesis_title = "Effect of humans on other humans: a study of human behavior."
             thesis_link = "#"
         [[params.education.list]]
-            degree = "B.S. in Subject"
+            degree = "B.A in Subject"
             college = "University of State-City"
             dates = "2004 - 2009"
 
