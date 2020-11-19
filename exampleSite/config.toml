@@ -28,9 +28,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-		tagline = "Title"
-		location = "City Name, ST"
+        name = "Dr. Vipin Valiattoor"
+		tagline = "Assistant Professor"
+		location = "IISER Bhopal, M.P"
         photo = "profile.jpg"
 
     # Section for links to social websites
